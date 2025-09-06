@@ -30,4 +30,5 @@ CPIHub busca fortalecer la comunidad universitaria, promoviendo la interacción 
 - Valentín Edgardo Ferreyra
 
 Arquitectura Backend
+
 <img width="1154" height="624" alt="image" src="https://github.com/user-attachments/assets/c10bff70-983f-4991-9d04-23d4087867ce" />
