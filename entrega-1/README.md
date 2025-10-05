@@ -1,7 +1,7 @@
 # Entrega 1
 
 ## 🎯 Objetivos de la Iteración
-En esta primera entrega, nos enfocamos principalmente en la experiencia del usuario al interactura con la plataforma CPIHub; esto incluye desde su logeo, navegación, interacción en los primeros Spaces y sentido de pertenencia a la plataforma: un lugar donde todos podemos participar y sentirse parte de la comunidad.
+En esta primera entrega, nos enfocamos principalmente en la experiencia del usuario al interactua con la plataforma CPIHub; esto incluye desde su logeo, navegación, interacción en los primeros Spaces y sentido de pertenencia a la plataforma: un lugar donde todos podemos participar y sentirse parte de la comunidad.
 
 ---
 
@@ -9,7 +9,7 @@ En esta primera entrega, nos enfocamos principalmente en la experiencia del usua
 
 ![Diagrama UML](uml.png)
 
-El modelo de datos incluye las entidades principales y sus relaciones para soportar la funcionalidad de esta primera verisón.
+El modelo de datos incluye las entidades principales y sus relaciones para soportar la funcionalidad de esta primera versión.
 
 ---
 
@@ -17,7 +17,7 @@ El modelo de datos incluye las entidades principales y sus relaciones para sopor
 
 ![Casos de uso](usecases.png)
 
-Funcionalidades alcanzadas y que actualmente el usuario de CPIHub va a poder hacer. 
+Funcionalidades alcanzadas y que actualmente el usuario de CPIHub va a poder hacer, ademas de la comparación con aquellas presentes en la PoC. 
 
 ## Arquitectura del Sistema
 
