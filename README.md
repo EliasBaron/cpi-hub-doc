@@ -36,6 +36,14 @@ Actualmente, la CPI de la UNQ carece de una **plataforma unificada** que permita
 
 ---
 
+## Iteraciones
+- 📌 [Entrega 1](/entrega-1/README.md)
+- 📌 Entrega 2 — **⏳ Próximamente**  
+- 📌 Entrega 3 — **⏳ Próximamente**  
+- 📌 Entrega 4 — **⏳ Próximamente**  
+
+---
+
 ## 👥 Equipo
 ### Desarrollo
 - **Elias Baron**  
