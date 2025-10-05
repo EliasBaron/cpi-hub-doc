@@ -26,8 +26,7 @@ Actualmente, la CPI de la UNQ carece de una **plataforma unificada** que permita
 ---
 
 ## Iteraciones
-- 📌 PoC — **⏳ Próximamente**  
-- 📌 Entrega 1 — **⏳ Próximamente**  
+- 📌 [Entrega 1](/entrega-1/README.md)
 - 📌 Entrega 2 — **⏳ Próximamente**  
 - 📌 Entrega 3 — **⏳ Próximamente**  
 - 📌 Entrega 4 — **⏳ Próximamente**  
@@ -46,12 +45,6 @@ Actualmente, la CPI de la UNQ carece de una **plataforma unificada** que permita
 
 ---
 
-## Arquitectura
-
-<img width="1154" height="624" alt="Arquitectura Backend" src="https://github.com/user-attachments/assets/c10bff70-983f-4991-9d04-23d4087867ce" />
-
----
-
 ## 👥 Equipo
 ### Desarrollo
 - **Elias Baron**  
@@ -62,9 +55,9 @@ Actualmente, la CPI de la UNQ carece de una **plataforma unificada** que permita
 
 ---
 
-## 📄 Licencia
+## Licencia
 Este proyecto está bajo la licencia MIT - ver el archivo [LICENSE](LICENSE) para más detalles.
 
-
+---
 
 _Última actualización: 5 de octubre de 2025_
