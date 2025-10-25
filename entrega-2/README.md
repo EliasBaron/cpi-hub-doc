@@ -3,9 +3,10 @@
 ## 🎯 Objetivos de la iteración
 En esta segunda entrega, nos centramos en expandir las funcionalidad de la plataforma CPIHub, dandole prioridad entre las relaciónes de los usuarios con la generación de chats de textos, visualización de estado de conexión y la posibilidad de responder comentarios, fomentando así una comunicación más dinámica y fluida entre los miembros de la comunidad. Ademas de agregar caracteristicas escenciales como la edición de perfiles, posteos y comentarios, puntos claves que mejoran la experiencia del usuario y su interacción dentro de la plataforma. Como agregado, seguimos trabajando en la mejora de la interfaz y experiencia del usuario para hacerla más intuitiva y atractiva.
 
-## 🧩 Nuevas funcionalidades
+## 🧩 Funcionalidades de la entrega
 ![Casos de uso](usecases2.png)
 
+## 📋 Descripción de las funcionalidades nuevas
 
 ### 🗨️ Chatear en un space  
 - El usuario accede al chat de un space de interés.  
@@ -69,3 +70,17 @@ En esta segunda entrega, nos centramos en expandir las funcionalidad de la plata
 - El sistema habilita un campo de texto vinculado al comentario original.  
 - El usuario escribe y envía su respuesta.  
 - El sistema publica la respuesta de forma anidada, mostrando la relación entre comentario y respuesta.  
+
+## 📋 Descripción de las funcionalidades modificadas
+
+### 🖼️ Subir imágenes en posts
+- El usuario puede seleccionar una imagen desde su dispositivo para incluirla en un post.
+- El sistema permite previsualizar la imagen antes de publicarla.
+- Al publicar el post, la imagen se muestra junto con el texto en el feed.
+- Se implementa un límite de tamaño y formato para las imágenes permitidas.
+
+### 🖼️ Subir imágenes en comentarios
+- El usuario puede seleccionar una imagen desde su dispositivo para incluirla en un comentario.
+- El sistema permite previsualizar la imagen antes de publicarla.
+- Al publicar el comentario, la imagen se muestra junto con el texto en el feed.
+- Se implementa un límite de tamaño y formato para las imágenes permitidas.
