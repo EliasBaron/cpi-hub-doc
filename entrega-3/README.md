@@ -43,12 +43,12 @@ Estas mejoras fortalecen la participación y la conexión entre los usuarios, ot
 
 ---
 
-## 🧱 Resumen de cambios
+## 👷 Resumen de cambios
 
 | Tipo de cambio | Caso de uso | Descripción |
 |----------------|--------------|-------------|
-| 🟤 Modificado | Interacciones con posts | Se agregaron reacciones (likes/dislikes) y notificaciones al autor. |
-| 🟤 Modificado | Interacciones con comentarios | Se agregaron reacciones (likes/dislikes) y notificaciones por respuestas y reacciones. |
+| 🟠 Modificado | Interacciones con posts | Se agregaron reacciones (likes/dislikes) y notificaciones al autor. |
+| 🟠 Modificado | Interacciones con comentarios | Se agregaron reacciones (likes/dislikes) y notificaciones por respuestas y reacciones. |
 | ⚙️ Nueva funcionalidad transversal | Sistema de notificaciones | Permite informar al usuario sobre interacciones relevantes. |
 
 ---
