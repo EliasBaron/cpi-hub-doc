@@ -2,7 +2,6 @@
 
 ![CPIHub logo](logo-CPIHub.png)
 
-## Descripción
 **CPIHub** es un foro académico y social diseñado para las personas vinculadas (estudiantes, graduados, equipos docentes, etc.) de la **Tecnicatura en Programación Universitaria** y la **Licenciatura en Informática** de la **Universidad Nacional de Quilmes (UNQ)**.  
 
 El objetivo del proyecto es ofrecer un **espacio de encuentro, intercambio social y académico**, donde los miembros puedan compartir **conocimientos, experiencias y colaborar entre sí**, a través de:  
@@ -25,14 +24,6 @@ Actualmente, la CPI de la UNQ carece de una **plataforma unificada** que permita
 
 ---
 
-## Iteraciones
-- 📌 [Entrega 1](/entrega-1/README.md)
-- 📌 Entrega 2 — **⏳ Próximamente**  
-- 📌 Entrega 3 — **⏳ Próximamente**  
-- 📌 Entrega 4 — **⏳ Próximamente**  
-
----
-
 ## Tecnologías utilizadas
 
 ### Backend ([cpi-hub-api](https://github.com/EliasBaron/cpi-hub-api))
@@ -42,6 +33,14 @@ Actualmente, la CPI de la UNQ carece de una **plataforma unificada** que permita
 ### Frontend ([cpi-hub-fe](https://github.com/EliasBaron/cpi-hub-fe))
 - TypeScript
 - React.js
+
+---
+
+## Iteraciones
+- 📌 [Entrega 1](/entrega-1/README.md)
+- 📌 [Entrega 2](/entrega-2/README.md)
+- 📌 [Entrega 3](/entrega-3/README.md)
+- 📌 Entrega 4 — **⏳ Próximamente**  
 
 ---
 
