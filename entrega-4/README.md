@@ -7,7 +7,9 @@ Se agregaron dos nuevas funcionalidades clave:
 - La visualización de **tendencias**, que permite conocer la actividad destacada de la comunidad.  
 - La sección de **novedades**, pensada para informar a los usuarios desde la pantalla principal.  
 
-Además, se ampliaron las capacidades del sistema de **notificaciones**, agregando nuevos tipos de avisos y permitiendo la redirección directa al contenido asociado.  
+Además, se ampliaron las capacidades del sistema de **notificaciones**, agregando nuevos tipos de avisos y permitiendo la redirección directa al contenido asociado.
+
+Por último, incorporamos la renderización de un Dot para que el usuario se entere cuando tiene un nuevo mensaje en el chat de un Space.
 
 Con estos cambios, la plataforma se vuelve más dinámica, informativa y orientada a mantener a los usuarios al tanto de todo lo que ocurre.
 
@@ -65,3 +67,7 @@ Con estos cambios, la plataforma se vuelve más dinámica, informativa y orienta
 ## 💡 Conclusión  
 Con la incorporación de tendencias, novedades y un sistema de notificaciones más completo, CPIHub finaliza su desarrollo con una experiencia mucho más rica y conectada.  
 Los usuarios pueden informarse mejor, acceder rápidamente a contenido relevante y mantenerse al tanto de toda la actividad de la comunidad.
+
+
+# Deployment
+Durante esta iteración y como sello final para la entrega del producto, deployamos la aplicación a un ambiente productivo utilizando Render para backend y PostgreSQL, Atlas para MongoDB y Vercel para aplicación frontend. Nuestra aplicación ya está recibiendo a la comunidad de programación informática de la UNQ, y estamos recibiendo feedback para ayudarnos a mejorar el proyecto. [Link a la página](https://cpi-hub-fe.vercel.app/)
