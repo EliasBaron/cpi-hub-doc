@@ -40,7 +40,7 @@ Actualmente, la CPI de la UNQ carece de una **plataforma unificada** que permita
 - 📌 [Entrega 1](/entrega-1/README.md)
 - 📌 [Entrega 2](/entrega-2/README.md)
 - 📌 [Entrega 3](/entrega-3/README.md)
-- 📌 Entrega 4 — **⏳ Próximamente**  
+- 📌 [Entrega 4](/entrega-4/README.md)
 
 ---
 
@@ -59,4 +59,4 @@ Este proyecto está bajo la licencia MIT - ver el archivo [LICENSE](LICENSE) par
 
 ---
 
-_Última actualización: 5 de octubre de 2025_
+_Última actualización: 1 de diciembre de 2025_
